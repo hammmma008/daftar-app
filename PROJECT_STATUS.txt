@@ -1,0 +1,4 @@
+DAFTAR Flutter starter v0.1.0
+RTL Arabic interface; DZD labels; SQLite local storage; basic sections; invoice PDF print.
+Supabase dependency included but not configured or connected.
+Not a production accounting app yet; further schema, security, backup, testing and Android build required.
